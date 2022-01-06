@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Replace Tired",
+    "Price": 200,
+    "time": 2,
+    "discription": "With decades of maintenance of way expertise and experience, no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance algorithms with advanced inspection technologies to provide you actionable intell.",
+    "img": "https://i.ibb.co/SBK1Bjx/img-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Replace Tired",
+    "Price": 300,
+    "time": 1,
+    "discription": "With decades of maintenance of way expertise and experience, no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance alg.",
+    "img": "https://i.ibb.co/5BwvPmG/img-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Replace Tired",
+    "Price": 200,
+    "time": 2,
+    "discription": "With decades of maintenance of way expertise and experience, no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance algorithms with advanced inspection technologies to provide you actionable .",
+    "img": "https://i.ibb.co/5BwvPmG/img-2.png"
+  },
+  {
+    "id": 4,
+    "name": "Replace Tired",
+    "Price": 200,
+    "time": 2,
+    "discription": "With decades of maintenance of way expertise and experience, no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance algorithms with advanced inspection technologies to provide you actionable inte.",
+    "img": "https://i.ibb.co/jGdkpyx/img-4.png"
+  },
+  {
+    "id": 5,
+    "name": "Replace Tired",
+    "Price": 200,
+    "time": 2,
+    "discription": "With decades of maintenance of way expertise and experience, no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance algorithms with advanced inspection technologies to provide.",
+    "img": "https://i.ibb.co/q1LQLsx/img-5.png"
+  },
+  {
+    "id": 6,
+    "name": "Replace Tired",
+    "Price": 200,
+    "time": 2,
+    "discription": "With decades of maintenance of way expertise and experience, no one knows the rail like Loram. Today, with our Loram Technologies business group, we’re leveraging our accumulated data, analytics and maintenance alg.",
+    "img": "https://i.ibb.co/ZLF5qFG/img-6.png"
+  }
+]
