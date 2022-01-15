@@ -6,7 +6,6 @@ import Bannar from '../Bannar/Bannar';
 const Home = () => {
     return (
         <div>
-            <h1>Hello all about</h1>
             <Bannar></Bannar>
             <Services></Services>
             <Exparts></Exparts>

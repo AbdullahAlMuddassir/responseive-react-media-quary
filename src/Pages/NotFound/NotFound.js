@@ -7,7 +7,8 @@ const NotFound = () => {
         <div>
                 <img src={notFound} alt="" />
                 <br />
-                <Link to="/"className="bg-dark"> Go Back
+                <Link to="/"> 
+                < button className="bg-primary fs-1" >Go Back</button>
                 </Link> 
         </div>
     );
